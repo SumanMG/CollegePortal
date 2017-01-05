@@ -1,0 +1,10 @@
+com\msrweb\configuration\HibernateConfiguration.class
+com\msrweb\dao\EmployeeDao.class
+com\msrweb\configuration\AppConfig.class
+com\msrweb\configuration\AppInitializer.class
+com\msrweb\controller\AppController.class
+com\msrweb\dao\EmployeeDaoImpl.class
+com\msrweb\service\EmployeeService.class
+com\msrweb\dao\AbstractDao.class
+com\msrweb\service\EmployeeServiceImpl.class
+com\msrweb\model\Employee.class
